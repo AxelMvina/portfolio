@@ -1,0 +1,14 @@
+.App {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: block;
+  font-family: "Lato", sans-serif;
+}
+.App_ImgBack {
+  z-index: -1;
+  position: absolute;
+  object-fit: cover;
+  width: 100%;
+}
