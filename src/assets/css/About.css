@@ -1,0 +1,7 @@
+.About {
+    display: flex;
+}
+
+.About h2 {
+    padding-left: 5em;
+}
